@@ -10,6 +10,7 @@ For more hands-on experience with techniques taught in this class, participate i
 [Data-centric AI Competition 2023](https://machinehack.com/tournaments/data_centric_ai_competition_2023).
 
 ## [Lab 1: Data-Centric AI vs. Model-Centric AI][lab-1]
+- [x] **학습 완료**
 
 The [first lab assignment][lab-1] walks you through an ML task of building a
 text classifier, and illustrates the power (and often simplicity) of
