@@ -19,6 +19,7 @@ data-centric approaches.
 [lab-1]: data_centric_model_centric/Lab%20-%20Data-Centric%20AI%20vs%20Model-Centric%20AI.ipynb
 
 ## [Lab 2: Label Errors][lab-2]
+- [x] **학습 완료**
 
 [This lab][lab-2] guides you through writing your own implementation of
 automatic label error identification using Confident Learning, the technique
