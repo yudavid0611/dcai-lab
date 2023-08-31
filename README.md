@@ -29,6 +29,7 @@ taught in [today’s lecture][lec-2].
 [lec-2]: https://dcai.csail.mit.edu/lectures/label-errors/
 
 ## [Lab 3: Dataset Creation and Curation][lab-3]
+- [x] **학습 완료**
 
 [This lab assignment][lab-3] is to analyze an already collected dataset labeled
 by multiple annotators.
