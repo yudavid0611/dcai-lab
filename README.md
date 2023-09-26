@@ -37,6 +37,7 @@ by multiple annotators.
 [lab-3]: dataset_curation/Lab%20-%20Dataset%20Curation.ipynb
 
 ## [Lab 4: Data-centric Evaluation of ML Models][lab-4]
+- [x] **학습 완료**
 
 [This lab assignment][lab-4] is to try improving the performance of a given
 model solely by improving its training data via some of the various strategies
